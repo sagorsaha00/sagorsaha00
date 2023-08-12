@@ -1,13 +1,6 @@
-### Hi there 👋
+ 
 
  
-**sagorsaha00/sagorsaha00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 
-- 🌱 I’m currently learning
-- 💬 Ask me about ...
  
  ### Hi there 👋, I'm   Sagor 
  ![  Not much to say about me ](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/121133547_815353169277231_4215690556796433149_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c21ed2&_nc_eui2=AeFGCyHW2B-8i_Xkx0uuCviY176ymtMMoRPXvrKa0wyhE7KbK7IUvhSxhubJjcKTat9VGtXUaOciZogTZcgoMpl5&_nc_ohc=AnYNvtVfQXgAX8VlIrQ&_nc_ht=scontent.fdac5-1.fna&oh=00_AfA_ekRwn5JPwNEFwK4WMDkKzS_IOSNVxTdqyc2-ZQPXtA&oe=64FECC39)
