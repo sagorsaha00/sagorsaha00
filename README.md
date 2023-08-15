@@ -3,7 +3,7 @@
  
  
  ### Hi there 👋, I'm   Sagor
- ![  Not much to say about me ]
+ 
 ####   Not much to say about me 
 
 
