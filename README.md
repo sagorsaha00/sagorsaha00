@@ -35,7 +35,7 @@ Full-Stack Developer specializing in the MERN stack and modern frontend technolo
 ### Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devmeasin/devmeasin/main/assets/coding.gif" width="450" alt="coding animation" />
+  <img src="/coding.gif" width="450" alt="coding animation" />
 </p>
 
 | Category | Stack |
