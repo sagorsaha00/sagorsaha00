@@ -1,21 +1,19 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Sagor Saha banner" width="100%" />
+  <img src="/cover.png" alt="Sagor Saha banner" width="100%" />
 </p>
 
 <h1 align="center">Sagor Saha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 💻 MERN Stack Developer | ⚛️ Frontend Developer | 🤖 Generative AI Developer</h3>
 
 <p align="center">
-  📍 [Your City, Country] &nbsp;|&nbsp; 📧 sagorsaha.dev@gmail.com &nbsp;|&nbsp; 📱 [Your Phone Number]
+  📍  Gouripur,Cumilla,Bangladesh &nbsp;|&nbsp; 📧 sagorsaha.dev@gmail.com &nbsp;|&nbsp; 📱+8801857681366
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern%2C+Scalable%2C+AI-Powered+Apps;MERN+Stack+%7C+React+%7C+Next.js+%7C+TypeScript;AI+%2F+RAG+%2F+LangChain+%2F+LangGraph+Enthusiast;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagorsaha&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
+ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagor-saha00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -75,11 +73,11 @@ I'm a passionate Full-Stack Developer who enjoys building modern, scalable, and 
 
 ### 🌱 Currently Learning
 
-```text
-> Advanced System Design
+ 
+ 
 > AI Agents & RAG Applications
-> Cloud Deployment & DevOps
-```
+ 
+ 
 
 ---
 
