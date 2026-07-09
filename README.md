@@ -18,7 +18,7 @@
 
 <p align="center"><i>Building modern, scalable, AI-powered web applications.</i></p>
 
- js
+ ``js
 const sagorSaha = {
   location: "Gouripur, Cumilla, Bangladesh",
   role: "Full-Stack Developer",
@@ -26,7 +26,7 @@ const sagorSaha = {
   currentFocus: "AI Agents & RAG Applications",
   reachMeAt: "sagorsaha.dev@gmail.com",
 };
- 
+ ``
 
 ---
 
