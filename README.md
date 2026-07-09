@@ -1,22 +1,42 @@
-<h1 align="center">Hi there, I'm Sagor Saha 👋</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="Sagor Saha banner" width="100%" />
+</p>
 
+<h1 align="center">Sagor Saha</h1>
 <h3 align="center">🚀 Full-Stack Developer | 💻 MERN Stack Developer | ⚛️ Frontend Developer | 🤖 Generative AI Developer</h3>
+
+<p align="center">
+  📍 [Your City, Country] &nbsp;|&nbsp; 📧 sagorsaha.dev@gmail.com &nbsp;|&nbsp; 📱 [Your Phone Number]
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern%2C+Scalable%2C+AI-Powered+Apps;MERN+Stack+%7C+React+%7C+Next.js+%7C+TypeScript;AI+%2F+RAG+%2F+LangChain+%2F+LangGraph+Enthusiast;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=sagorsaha&style=for-the-badge&color=blueviolet" alt="views" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sagorsaha&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sagor-saha00/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sagor-saha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sagorsaha.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+### 🙋‍♂️ About Me
+
+I'm a passionate Full-Stack Developer who enjoys building modern, scalable, and AI-powered web applications. I specialize in the MERN stack and modern frontend technologies, with a strong focus on creating clean, responsive, and user-friendly applications. I love turning ideas into real products and I'm always excited to learn new tools that push what I can build.
+
+---
+
+### ⚡ Current Activities
+
+- 🔭 I'm currently exploring **Next.js 15** and advanced App Router patterns
+- 🌍 I'm building an **AI-powered tourism website** with RAG-based recommendations
+- 🧠 I'm learning to design **AI Agents** using LangGraph
+- 📚 I'm strengthening my knowledge of **System Design** and **Cloud Deployment**
 
 ---
 
@@ -89,10 +109,22 @@
 
 ---
 
+### 📫 Let's Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <a href="https://www.linkedin.com/in/sagor-saha00/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sagor-saha.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:sagorsaha.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <b>💬 Let's build something impactful together!</b>
+  <i>💬 "Building technology that solves real-world problems." — Let's build something impactful together!</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
