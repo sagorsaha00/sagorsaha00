@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="./cover.png" alt="Sagor Saha banner" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sagor%20Saha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Generative%20AI&descAlignY=55&descSize=18" width="100%" />
 
-<h1 align="center">Sagor Saha</h1>
-<h3 align="center">Full-Stack Developer · MERN Stack · Generative AI Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+AI-Powered+Web+Apps;Exploring+Next.js+15+%26+RAG+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   📍 Gouripur, Cumilla, Bangladesh &nbsp;·&nbsp; 📧 sagorsaha.dev@gmail.com &nbsp;·&nbsp; 📱 +880 1857-681366
@@ -18,7 +17,7 @@
 
 <p align="center"><i>Building modern, scalable, AI-powered web applications.</i></p>
 
- ```js
+```js
 const sagorSaha = {
   location: "Gouripur, Cumilla, Bangladesh",
   role: "Full-Stack Developer",
@@ -26,7 +25,7 @@ const sagorSaha = {
   currentFocus: "AI Agents & RAG Applications",
   reachMeAt: "sagorsaha.dev@gmail.com",
 };
- ```
+```
 
 ---
 
@@ -59,14 +58,16 @@ I'm a Full-Stack Developer specializing in the MERN stack and modern frontend te
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
- 
-  <img height="160" src="/coding.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagorsaha00&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://streak-stats.demolab.com?user=sagorsaha00&theme=github-dark&hide_border=true" height="180" />
 </p>
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorsaha00&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="180" />
+</p>
 
 ---
 
